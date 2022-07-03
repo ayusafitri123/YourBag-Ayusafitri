@@ -1,0 +1,126 @@
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.nav-item{
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.nav-item .nav-link.active {
+    font-weight: 600;
+    color: #473535 !important;
+}
+
+.nav-link{
+   color: #473535 !important; 
+}
+
+.nav-link:hover{
+    color: #473535 !important; 
+}
+
+/* Hero Section */
+.hero-section {
+    margin-top: 35px;
+}
+.hero-section h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 52px;
+}
+
+.hero-section .btn-cta img {
+    width: 53.8px;   
+}
+
+.hero-section .btn-cta{
+    margin-top: 80px;
+}
+
+.hero-section .btn {
+    border-radius: 50px 50px 50px 0px;  
+    margin-left:22 px ; 
+}
+
+
+
+.foto3 {
+    position: absolute;
+width: 271px;
+height: 245px;
+left: 360px;
+top: 480px;
+}
+
+.foto4 {
+    position: absolute;
+width: 280px;
+height: 250px;
+left: 650px;
+top: 480px;
+}
+
+.foto5 {
+ position: absolute;
+ left: 310px;
+ top: 0px;
+
+}
+
+.popularproducts1 {
+    position: absolute;
+    width: 286px;
+    height: 299px;
+    left: 75px;
+}
+/* Akhir Hero Section */
+
+.categories img {
+    width: 100%;
+}
+/* Tutup Categories */
+
+/* Join */
+.join {
+    background: #F5DEB3;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    margin-top: 129px;
+    padding-top: 39px;
+    padding-bottom: 39px;
+}
+/* Tutup Join */
+
+/* footer */
+.Footer{
+    background: #473535;
+    color: white;
+}
+
+.Foto1{
+    margin-bottom: 20px;
+}
+
+.Gambar1{
+    width: 329px;
+    height: 336px;
+}
+
+/* tutup footer */
+
+.pic1{
+    width: 265px;
+    height: 265px;
+}
+
+.pic2{
+    width: 450px;
+    height: 370px;
+}
