@@ -47,7 +47,9 @@
     <div class="container mt-5">
         <div class="row justify-content-center">
             <div class="col-3 text-center">
+              <a href="index.html">
                 <button type="button" class="btn btn-warning btn-lg btn-block">Back to Home</button>
+              </a>
             </div>
         </div>
     </div>
